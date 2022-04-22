@@ -1102,6 +1102,28 @@ a {
   background: #000;
   color: #fff;
 }
+.cid-t3I5XTQmIw {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-t3I5XTQmIw .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-t3I5XTQmIw .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
 .cid-t3tOjGKoV9 {
   padding-top: 6rem;
   padding-bottom: 6rem;
